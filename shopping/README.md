@@ -1,4 +1,4 @@
-# Multi-Agent Shipping
+# Multi-Agent Shopping
 
 Multi-Agent Shipping is a small Google Agent Development Kit (ADK) demo for an ecommerce shopping flow. It uses a root shopping orchestrator to route user requests to specialized agents for product search, inventory checks, cart management, shipping, and order lookup.
 
